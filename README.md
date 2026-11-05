@@ -1,1 +1,1 @@
-# video-processing-toolkit
+# video processing toolkit
