@@ -1,4 +1,3 @@
-
 import argparse
 from .extractor import save_frames
 
