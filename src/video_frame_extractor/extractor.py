@@ -1,4 +1,3 @@
-
 from pathlib import Path
 from collections.abc import Iterator
 
