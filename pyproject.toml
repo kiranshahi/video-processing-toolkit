@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "video-processing-toolkit"
-version = "0.1.0"
+version = "0.1.1"
 description = "Lightweight video frame extraction for Python and computer vision"
 readme = "README.md"
 requires-python = ">=3.10"
