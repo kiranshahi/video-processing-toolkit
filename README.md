@@ -13,4 +13,4 @@ and preprocessing using OpenCV.
 
 ## Installation
 
-pip install video-processing-toolkit
+`pip install video-processing-toolkit`
